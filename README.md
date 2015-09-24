@@ -1,10 +1,10 @@
 # GitBook for The Last Mile
 
-This fork of GitBook includes minor changes to make the app suitable for use generating text-based curriculum for in-prison educational programs. Full documentation for GitBook can be found [HERE](https://github.com/GitbookIO/gitbook)
+This fork of GitBook includes minor changes to make the app suitable for use generating text-based curriculum for in-prison educational programs. The original site for GitBook can be found [HERE](https://github.com/GitbookIO/gitbook)
 
-This fork has a version number `5.0.0` to facilitate linking this as the build version.
+This fork has a version number `5.0.0` to facilitate linking this fork as the build version in the CLI.
 
-This README includes barebones instructions for using this fork of Gitbook to locally generate class material.
+This README includes barebones instructions for using this fork of Gitbook to locally generate written curriculum material for [The Last Mile](https://thelastmile.org/).
 
 ## How to use it:
 
